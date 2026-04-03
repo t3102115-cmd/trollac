@@ -87,6 +87,6 @@ TrollAC consists of multiple components:
 ### Steps
 
 ```bash
-git clone https://github.com/yourusername/TrollAC.git
+git clone https://github.com/t3102115-cmd/TrollAC.git
 cd TrollAC
 mvn clean package

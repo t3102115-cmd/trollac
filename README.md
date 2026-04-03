@@ -58,7 +58,7 @@ TrollAC follows a progressive open-source model:
 TrollAC consists of multiple components:
 
 - **Spigot/Paper Plugin** – Core anti-cheat logic  
-- **Fabric Mod (optional)** – Enhanced detection capabilities  
+- **Fabric Mod** – Enhanced detection capabilities  
 - **External Scanner** – Additional validation and analysis layer  
 - **Web Dashboard** – Management and analytics interface  
 - **Backend System** – Account handling and data processing  
